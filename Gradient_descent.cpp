@@ -1,4 +1,4 @@
-// Machine Learning！！The first algorithm！！Gradient descent
+// Machine_Learning！！The first algorithm！！Gradient descent
 #define LOCAL
 #include <cstdio>
 #include <iostream>
